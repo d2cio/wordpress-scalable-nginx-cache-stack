@@ -10,7 +10,7 @@
 
 ## Demo
 
-![How to deploy a stack](https://github.com/mastappl/images/blob/master/wordpress-scalable-nginx-cache-stack.gif)
+![How to deploy a stack](https://raw.githubusercontent.com/mastappl/images/master/wordpress_nginx_cache.gif)
 
 ## Minimal recommended configuration:
 
